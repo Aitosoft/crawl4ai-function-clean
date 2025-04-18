@@ -1,5 +1,5 @@
- oryx-manifest.toml
- .python_packages
-+__pycache__/
-+*.pyc
-+.vscode/
+oryx-manifest.toml
+.python_packages
+.vscode/
+**/__pycache__/
+*.py[cod]
