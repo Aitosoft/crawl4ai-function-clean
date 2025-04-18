@@ -1,5 +1,10 @@
+# Ignore Oryx build cache so every deploy installs fresh packages
 oryx-manifest.toml
 .python_packages
+
+# Editor & local artifacts
 .vscode/
+
+# Python byte‑code caches
 **/__pycache__/
 *.py[cod]
