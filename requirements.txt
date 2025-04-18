@@ -22,3 +22,5 @@ rich==14.0.0
 snowballstemmer==2.2.0
 tf-playwright-stealth==1.1.2
 xxhash==3.5.0
+pyOpenSSL==25.0.0
+
