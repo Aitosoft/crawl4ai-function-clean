@@ -23,4 +23,9 @@ snowballstemmer==2.2.0
 tf-playwright-stealth==1.1.2
 xxhash==3.5.0
 pyOpenSSL==25.0.0
-
+requests==2.32.3
+fake-useragent==2.2.0
+fake-http-header==0.3.5
+httpx==0.28.1
+tf-playwright-stealth==1.1.2
+faust-cchardet==2.1.19
